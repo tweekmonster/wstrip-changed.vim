@@ -1,3 +1,5 @@
+:warning: This has been deprecated and renamed to [wstrip.vim](https://github.com/tweekmonster/wstrip.vim).
+
 # wstrip-changed.vim
 
 Strip trailing whitespace only on changed lines.  Inspired by question on
